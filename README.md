@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukhaihoan&label=Profile%20views&color=0e75b6&style=flat" alt="vukhaihoan" /> </p>
 
-## - 🌱 I’m currently learning **Express, React, GraphQl ...**
+## - 🌱 I’m currently learning ** React, Express, GraphQl ...**
 
 ## - 📫 How to reach me **khaihoan.work@gmail.com**
 
