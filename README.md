@@ -22,6 +22,7 @@
 -   <h3 align="left">Programming Languages</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="70" /> </a>
+    <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./solidity.svg" alt="javascript" width="auto" height="70" /> </a>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vukhaihoan&show_icons=true&locale=en&layout=compact" alt="vukhaihoan" /></p>
 
 -   <h3 align="left">Frontend Development</h3>
