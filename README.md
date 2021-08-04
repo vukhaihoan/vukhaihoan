@@ -30,9 +30,9 @@
     <a href="https://redux.js.org" target="_blank" > <img src="./redux.svg" alt="redux" width="auto" height="70" /> </a>  
     <a href="https://www.w3.org/html/" target="_blank" > <img src="./html-1.svg" alt="html5" width="auto" height="70" /> </a>  
     <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./css-3.svg" alt="css3" width="auto" height="70" /> </a> 
-    <a href="https://sass-lang.com" target="_blank" > <img src="./sass-1.svg" alt="sass" width="auto" height="70" /> </a>
     <a href="https://getbootstrap.com" target="_blank " > <img src="./bootstrap-5-1.svg" alt="bootstrap" width="auto" height="70" /> </a>
-
+    <a href="https://sass-lang.com" target="_blank" > <img src="./sass-1.svg" alt="sass" width="auto" height="70" /> </a>
+    
 -   <h3 align="left">Backend Development</h3>
     <a href="https://nodejs.org" target="_blank" > <img src="./nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
     <a href="https://expressjs.com" target="_blank" > <img src="./express-109.svg" alt="express" width="auto" height="70" /> </a>
