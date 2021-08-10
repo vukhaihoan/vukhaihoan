@@ -44,7 +44,8 @@
     <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a>
 
 -   <h3 align="left">Interested In</h3>
-    <a href="https://ethereum.org/en/developers/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum developer" width="auto" height="70" /> </a>
+    <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
+    <a href="https://chain.link/" target="_blank" > <img src="./assets/Chainlink.svg" alt="chainlink" width="auto" height="70" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukhaihoan&show_icons=true&locale=en" alt="vukhaihoan" /></p>
 
