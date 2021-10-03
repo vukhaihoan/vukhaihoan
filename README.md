@@ -33,7 +33,6 @@
     <a href="https://redux.js.org" target="_blank" > <img src="./assets/redux.svg" alt="redux" width="auto" height="70" /> </a>  
     <a href="https://www.w3.org/html/" target="_blank" > <img src="./assets/html-1.svg" alt="html5" width="auto" height="70" /> </a>  
     <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a> 
-    <a href="https://getbootstrap.com" target="_blank " > <img src="./assets/bootstrap-5-1.svg" alt="bootstrap" width="auto" height="70" /> </a>
 
 -   <h3 align="left">Backend Development ( Basic level )</h3>
     <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
