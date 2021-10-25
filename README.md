@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoàn</h1>
 <h2 align="center">A passionate Web developer from Việt Nam</h2>
-<h3 align="center">Interested in Dapp, Smart Contract</h3>
+<h3 align="center">Interested in Dapp, Web3, Smart Contract</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukhaihoan&label=Profile%20views&color=0e75b6&style=flat" alt="vukhaihoan" /> </p>
 
@@ -46,7 +46,6 @@
 
 -   <h3 align="left">Interested In</h3>
     <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
-    <a href="https://chain.link/" target="_blank" > <img src="./assets/Chainlink.svg" alt="chainlink" width="auto" height="70" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukhaihoan&show_icons=true&locale=en" alt="vukhaihoan" /></p>
 
