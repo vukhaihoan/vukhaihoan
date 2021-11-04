@@ -20,32 +20,34 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
--   <h3 align="left">Programming Languages</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" > <img src="./assets/typescript.svg" alt="javascript" width="auto" height="70" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="70" /> </a>
-     <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a>
-    <!-- <a href="https://www.java.com/en/" target="_blank" > <img src="./assets/java.svg" alt="java" width="auto" height="70" /> </a> -->
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vukhaihoan&show_icons=true&locale=en&layout=compact" alt="vukhaihoan" /></p>
+- <h3 align="left">Programming Languages</h3>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" > <img src="./assets/typescript.svg" alt="javascript" width="auto" height="70" /> </a>
+   <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a>
+   <a href="https://www.rust-lang.org//" target="_blank" > <img src="./assets/rust.svg" alt="sust" width="auto" height="70" /> </a>
+  <!-- <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="70" /> </a> -->
+  <!-- <a href="https://www.java.com/en/" target="_blank" > <img src="./assets/java.svg" alt="java" width="auto" height="70" /> </a> -->
+  <!-- <a href="https://www.python.org/" target="_blank" > <img src="./assets/python-5.svg" alt="python" width="auto" height="70" /> </a> -->
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vukhaihoan&show_icons=true&locale=en&layout=compact" alt="vukhaihoan" /></p>
 
--   <h3 align="left">Frontend Development</h3>
-    <a href="https://reactjs.org/" target="_blank" > <img src="./assets/react-2.svg" alt="react" width="auto" height="70" /> </a>
-    <a href="https://redux.js.org" target="_blank" > <img src="./assets/redux.svg" alt="redux" width="auto" height="70" /> </a>  
-    <a href="https://www.w3.org/html/" target="_blank" > <img src="./assets/html-1.svg" alt="html5" width="auto" height="70" /> </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a> 
+- <h3 align="left">Frontend Development</h3>
+  <a href="https://reactjs.org/" target="_blank" > <img src="./assets/react-2.svg" alt="react" width="auto" height="70" /> </a>
+  <a href="https://redux.js.org" target="_blank" > <img src="./assets/redux.svg" alt="redux" width="auto" height="70" /> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" > <img src="./assets/html-1.svg" alt="html5" width="auto" height="70" /> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a>
 
--   <h3 align="left">Backend Development ( Basic level )</h3>
-    <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
-    <a href="https://expressjs.com" target="_blank" > <img src="./assets/express-109.svg" alt="express" width="auto" height="70" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a
-    <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a>
+- <h3 align="left">Backend Development ( Basic level )</h3>
+  <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
+  <a href="https://expressjs.com" target="_blank" > <img src="./assets/express-109.svg" alt="express" width="auto" height="70" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a
+  <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a>
 
--   <h3 align="left">Other ( Basic level )</h3>
-    <a href="https://git-scm.com/" target="_blank" > <img src="./assets/git-icon.svg" alt="git" width="auto" height="70" /> </a>
-    <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a>
+- <h3 align="left">Other ( Basic level )</h3>
+  <a href="https://git-scm.com/" target="_blank" > <img src="./assets/git-icon.svg" alt="git" width="auto" height="70" /> </a>
+  <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a>
 
--   <h3 align="left">Interested In</h3>
-    <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
+- <h3 align="left">Interested In</h3>
+  <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukhaihoan&show_icons=true&locale=en" alt="vukhaihoan" /></p>
 
