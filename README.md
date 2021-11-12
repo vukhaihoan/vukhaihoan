@@ -39,7 +39,7 @@
 - <h3 align="left">Backend Development ( Basic level )</h3>
   <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
   <a href="https://expressjs.com" target="_blank" > <img src="./assets/express-109.svg" alt="express" width="auto" height="70" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a
+  <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a>
   <!-- <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a> -->
 
 - <h3 align="left">Other ( Basic level )</h3>
