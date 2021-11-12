@@ -44,7 +44,7 @@
 
 - <h3 align="left">Other ( Basic level )</h3>
   <a href="https://git-scm.com/" target="_blank" > <img src="./assets/git-icon.svg" alt="git" width="auto" height="70" /> </a>
-  <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a>
+  <!-- <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a> -->
 
 - <h3 align="left">Interested In</h3>
   <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
