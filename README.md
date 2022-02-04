@@ -17,7 +17,6 @@
 <a href="https://fb.com/funny.khaihoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="funny.khaihoan" height="40" width="auto"  /></a>
 <a href="https://instagram.com/funny_khaihoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="funny_khaihoan" height="40" width="auto"  /></a>
 </p>
-<a href="https://app.daily.dev/vukhaihoan"><img src="https://api.daily.dev/devcards/2fb4e5f603cf423a8e713def3c844d0c.png?r=1ne" width="400" alt="vukhaihoan's Dev Card"/></a>
 
 <h2 align="left">Languages and Tools:</h2>
 
