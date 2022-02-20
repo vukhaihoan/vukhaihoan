@@ -23,8 +23,7 @@
 - <h3 align="left">Programming Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" > <img src="./assets/typescript.svg" alt="javascript" width="auto" height="70" /> </a>
-   <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a>
-   <!-- <a href="https://www.rust-lang.org/" target="_blank" > <img src="./assets/rust.svg" alt="sust" width="auto" height="70" /> </a>  -->
+  <!-- <a href="https://www.rust-lang.org/" target="_blank" > <img src="./assets/rust.svg" alt="sust" width="auto" height="70" /> </a>  -->
   <!-- <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="70" /> </a> -->
   <!-- <a href="https://www.java.com/en/" target="_blank" > <img src="./assets/java.svg" alt="java" width="auto" height="70" /> </a> -->
   <!-- <a href="https://www.python.org/" target="_blank" > <img src="./assets/python-5.svg" alt="python" width="auto" height="70" /> </a> -->
@@ -48,6 +47,7 @@
 
 - <h3 align="left">Interested In</h3>
   <a href="https://ethereum.org/en/" target="_blank" > <img src="./assets/ethereum-eth.svg" alt="ethereum " width="auto" height="70" /> </a>
+  <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukhaihoan&show_icons=true&locale=en" alt="vukhaihoan" /></p>
 
