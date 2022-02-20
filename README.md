@@ -38,7 +38,7 @@
     <!-- <a href="https://pptr.dev/" target="_blank" style="margin-right: 10px;" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a>
     <a href="http://robotjs.io/" target="_blank" style="margin-right: 10px;" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a>
     <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" style="border-radius: 10px;"/> </a> -->
-    <a href="https://pptr.dev/" target="_blank" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a> &nbsp;&nbsp;
+    <a href="https://pptr.dev/" target="_blank" > <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="auto" height="70" /> </a> &nbsp;&nbsp;
     <a href="http://robotjs.io/" target="_blank" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a> &nbsp;&nbsp;
     <!-- <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb-modified.png" alt="Android Debug Bridge" width="auto" height="75" /> </a> -->
 
