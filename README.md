@@ -39,7 +39,7 @@
     <a href="http://robotjs.io/" target="_blank" style="margin-right: 10px;" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a>
     <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" style="border-radius: 10px;"/> </a> -->
     <a href="https://pptr.dev/" target="_blank" > <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="auto" height="70" /> </a> &nbsp;&nbsp;
-    <a href="http://robotjs.io/" target="_blank" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a> &nbsp;&nbsp;
+    <a href="http://robotjs.io/" target="_blank" > <img src="https://camo.githubusercontent.com/ae4ccf4d1609eaa89f3a02f3c60d169cbe53be5b941256ea579f31541458a981/68747470733a2f2f636c6475702e636f6d2f3141544466324a4d74762e706e67" alt="robotjs" width="auto" height="70" /> </a> &nbsp;&nbsp;
     <!-- <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb-modified.png" alt="Android Debug Bridge" width="auto" height="75" /> </a> -->
 
 -   <h3 align="left">Backend Development ( Basic level )</h3>
