@@ -40,10 +40,10 @@
     <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" style="border-radius: 10px;"/> </a> -->
     <a href="https://pptr.dev/" target="_blank" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a> &nbsp;&nbsp;
     <a href="http://robotjs.io/" target="_blank" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a> &nbsp;&nbsp;
-    <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" /> </a>
+    <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb-modified.png" alt="Android Debug Bridge" width="auto" height="75" /> </a>
 
 -   <h3 align="left">Backend Development ( Basic level )</h3>
-    <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
+    <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a> &nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank" > <img src="./assets/express-109.svg" alt="express" width="auto" height="70" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a>
     <!-- <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a> -->
