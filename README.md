@@ -35,9 +35,12 @@
     <a href="https://www.w3.org/html/" target="_blank" > <img src="./assets/html-1.svg" alt="html5" width="auto" height="70" /> </a>  
     <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a>
 -   <h3 align="left">Automation Development </h3>
-    <a href="https://pptr.dev/" target="_blank" style="margin-right: 10px;" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a>
+    <!-- <a href="https://pptr.dev/" target="_blank" style="margin-right: 10px;" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a>
     <a href="http://robotjs.io/" target="_blank" style="margin-right: 10px;" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a>
-    <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" style="border-radius: 10px;"/> </a>
+    <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" style="border-radius: 10px;"/> </a> -->
+    <a href="https://pptr.dev/" target="_blank" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a> &nbsp;&nbsp;
+    <a href="http://robotjs.io/" target="_blank" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a> &nbsp;&nbsp;
+    <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb.png" alt="Android Debug Bridge" width="auto" height="70" /> </a>
 
 -   <h3 align="left">Backend Development ( Basic level )</h3>
     <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a>
