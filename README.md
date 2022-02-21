@@ -50,7 +50,7 @@
     <a href="https://socket.io/" target="_blank" > <img src="./assets/socket-io.svg" alt="mongodb" width="auto" height="70" /> </a>
     <!-- <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a> -->
 
--   <h3 align="left">Other ( Basic level )</h3>
+-   <h3 align="left">Other ( Low level )</h3>
     <a href="https://git-scm.com/" target="_blank" > <img src="./assets/git-icon.svg" alt="git" width="auto" height="70" /> </a>
     <a href="https://swagger.io/resources/open-api/" target="_blank" > <img src="./assets/openapi-wordmark-1.svg" alt="git" width="auto" height="70" /> </a>
     <a href="https://www.docker.com/" target="_blank" > <img src="./assets/docker.svg" alt="docker" width="auto" height="70" /> </a>
