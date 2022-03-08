@@ -62,7 +62,7 @@
   <a href="https://opensea.io/" target="_blank" > <img src="./assets/opensea.svg" alt="opensea " width="auto" height="70" /> </a> &nbsp;
   <!-- <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a> &nbsp; -->
   <a href="https://web3.foundation/about/" target="_blank" > <img src="./assets/web3-icon.png" alt="web3" width="auto" height="70" /> </a>
-  <a href="https://web3.foundation/about/" target="_blank" > <img src="./assets/nft.png" alt="nft" width="auto" height="70" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank" > <img src="./assets/nft.png" alt="nft" width="auto" height="70" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukhaihoan&show_icons=true&locale=en" alt="vukhaihoan" /></p>
 
