@@ -32,10 +32,10 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vukhaihoan&show_icons=true&locale=en&layout=compact" alt="vukhaihoan" /></p>
 
 - <h3 align="left">Frontend Development</h3>
-  <a href="https://reactjs.org/" target="_blank" > <img src="./assets/react-2.svg" alt="react" width="auto" height="70" /> </a> &nbsp;
-  <a href="https://redux.js.org/" target="_blank" > <img src="./assets/redux.svg" alt="redux" width="auto" height="70" /> </a> &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" > <img src="./assets/html-1.svg" alt="html5" width="auto" height="70" /> </a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a> &nbsp;
+  <a href="https://reactjs.org/" target="_blank" > <img src="./assets/react-2.svg" alt="react" width="auto" height="70" /> </a> &nbsp;
+  <a href="https://redux.js.org/" target="_blank" > <img src="./assets/redux.svg" alt="redux" width="auto" height="70" /> </a> &nbsp;
   <a href="https://react-query.tanstack.com/" target="_blank" > <img src="./assets/react-query.svg" alt="redux" width="auto" height="70" /> </a> &nbsp;
 - <h3 align="left">Automation Development </h3>
   <!-- <a href="https://pptr.dev/" target="_blank" style="margin-right: 10px;" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a>
