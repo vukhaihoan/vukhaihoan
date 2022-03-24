@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Web developer from Việt Nam</h2>
 <h3 align="center">Interested in Dapp, Web3, Smart Contract</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vukhaihoan&label=Profile%20views&color=0e75b6&style=flat" alt="vukhaihoan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vukhaihoan&label=Profile%20views&color=0e75b6&style=flat&langs_count=10" alt="vukhaihoan" /> </p>
 
 ## - 🌱 I’m currently learning ** ReactJS,NodeJS, Automation ...**
 
