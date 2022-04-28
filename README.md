@@ -36,8 +36,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="./assets/css-3.svg" alt="css3" width="auto" height="70" /> </a> &nbsp;
   <a href="https://reactjs.org/" target="_blank" > <img src="./assets/react-2.svg" alt="react" width="auto" height="70" /> </a> &nbsp;
   <a href="https://redux.js.org/" target="_blank" > <img src="./assets/redux-lis.svg" alt="redux" width="auto" height="70" /> </a> &nbsp;
-  <a href="https://react-query.tanstack.com/" target="_blank" > <img src="./assets/react-query.svg" alt="redux" width="auto" height="70" /> </a> &nbsp;
-  <a href="https://react-query.tanstack.com/" target="_blank" > <img src="./assets/swr.png" alt="redux" width="auto" height="70" /> </a> &nbsp;
+  <a href="https://react-query.tanstack.com/" target="_blank" > <img src="./assets/react-query.svg" alt="react-query" width="auto" height="70" /> </a> &nbsp;
+  <a href="https://swr.vercel.app/" target="_blank" > <img src="./assets/swr.png" alt="swr" width="auto" height="70" /> </a> &nbsp;
 - <h3 align="left">Automation Development </h3>
   <!-- <a href="https://pptr.dev/" target="_blank" style="margin-right: 10px;" > <img src="./assets/puppeteer.png" alt="puppeteer" width="auto" height="70" /> </a>
   <a href="http://robotjs.io/" target="_blank" style="margin-right: 10px;" > <img src="./assets/robotjs.png" alt="robotjs" width="auto" height="70" /> </a>
