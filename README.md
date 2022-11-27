@@ -46,14 +46,14 @@
   <a href="http://robotjs.io/" target="_blank" > <img src="https://camo.githubusercontent.com/ae4ccf4d1609eaa89f3a02f3c60d169cbe53be5b941256ea579f31541458a981/68747470733a2f2f636c6475702e636f6d2f3141544466324a4d74762e706e67" alt="robotjs" width="270" height="auto" /> </a>
   <!-- <a href="https://developer.android.com/studio/command-line/adb/" target="_blank" > <img src="./assets/adb-removebg.png" alt="Android Debug Bridge" width="auto" height="70" /> </a> -->
 
-- <h3 align="left">Backend Development ( Basic level )</h3>
+- <h3 align="left">Backend Development</h3>
   <a href="https://nodejs.org" target="_blank" > <img src="./assets/nodejs-1.svg" alt="nodejs" width="auto" height="70" /> </a> &nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" > <img src="./assets/express-109.svg" alt="express" width="auto" height="70" /> </a>
   <a href="https://www.mongodb.com/" target="_blank" > <img src="./assets/mongodb-icon-1.svg" alt="mongodb" width="auto" height="70" /> </a>
   <a href="https://socket.io/" target="_blank" > <img src="./assets/socket-io.svg" alt="mongodb" width="auto" height="70" /> </a>
   <!-- <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a> -->
 
-- <h3 align="left">Other ( Low level )</h3>
+- <h3 align="left">Other</h3>
   <a href="https://git-scm.com/" target="_blank" > <img src="./assets/git-icon.svg" alt="git" width="auto" height="70" /> </a> &nbsp;
   <a href="https://swagger.io/resources/open-api/" target="_blank" > <img src="./assets/openapi-wordmark-1.svg" alt="git" width="auto" height="70" /> </a> &nbsp;
   <a href="https://graphql.org" target="_blank" > <img src="./assets/graphql-logo-2.svg" alt="graphql" width="auto" height="70" /> </a> &nbsp;
