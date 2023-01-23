@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukhaihoan&label=Profile%20views&color=0e75b6&style=flat" alt="vukhaihoan" /> </p>
 
-## - 🌱 I’m currently working  ** ReactJS,NodeJS, Automation ...**
+## - 🌱 I’m currently working with  ** ReactJS,NodeJS, Automation ...**
 
 ## - 📫 How to reach me **khaihoan.work@gmail.com**
 
