@@ -27,8 +27,9 @@
   <!-- <a href="https://www.rust-lang.org/" target="_blank" > <img src="./assets/rust.svg" alt="sust" width="auto" height="70" /> </a>  -->
   <!-- <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="auto" height="70" /> </a> -->
   <!-- <a href="https://www.java.com/en/" target="_blank" > <img src="./assets/java.svg" alt="java" width="auto" height="70" /> </a> -->
+  <a href="https://soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a>
   <a href="https://www.python.org/" target="_blank" > <img src="./assets/python-5.svg" alt="python" width="auto" height="70" /> </a>
-  <!-- <a href="https://docs.soliditylang.org/" target="_blank" > <img src="./assets/solidity.svg" alt="solidity" width="auto" height="70" /> </a> &nbsp; -->
+   &nbsp;
   <p><img src="https://github-readme-stats-vukhaihoan.vercel.app/api/top-langs?username=vukhaihoan&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&exclude_repo=kyber-discover-pre-test,full-solustion-auto-logic-dev" alt="vukhaihoan" /></p>
 
 - <h3 align="left">Frontend Development</h3>
